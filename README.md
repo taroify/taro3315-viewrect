@@ -24,4 +24,4 @@ export default function Index() {
 
 ### 在 H5 上的效果
 
-<img src="https://raw.githubusercontent.com/taroify/taro3314-viewrect/main/viewrect.png" width="800" />
+<img src="https://raw.githubusercontent.com/taroify/taro3315-viewrect/main/viewrect.png" width="800" />
